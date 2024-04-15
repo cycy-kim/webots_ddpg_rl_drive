@@ -1,3 +1,3 @@
 # webots_ddpg_rl_drive
 
-![Test Result](./test_result.gif)
+![Test Result](./images/test_result.gif)
